@@ -1,0 +1,939 @@
+1517337104548	geckodriver	INFO	geckodriver 0.19.0
+1517337104554	geckodriver	INFO	Listening on 127.0.0.1:36991
+1517337105675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.E0dwIOIO8d8N"
+
+(firefox:8452): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337106520	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:8509): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337107797	Marionette	INFO	Listening on port 39533
+1517337107898	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8561): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517337148103	geckodriver	INFO	geckodriver 0.19.0
+1517337148107	geckodriver	INFO	Listening on 127.0.0.1:33881
+1517337149212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n8zYYZBsrmh2"
+
+(firefox:9260): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337149712	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:9314): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337150812	Marionette	INFO	Listening on port 38429
+1517337150835	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9364): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517337386188	geckodriver	INFO	geckodriver 0.19.0
+1517337386192	geckodriver	INFO	Listening on 127.0.0.1:33421
+1517337387309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e4oesMg8CwXx"
+
+(firefox:9573): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337387814	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:9627): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337388967	Marionette	INFO	Listening on port 36569
+1517337389020	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9675): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517337405178	geckodriver	INFO	geckodriver 0.19.0
+1517337405181	geckodriver	INFO	Listening on 127.0.0.1:60481
+1517337406293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pbb6Uj9j7OJY"
+
+(firefox:9730): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337406813	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:9785): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337407947	Marionette	INFO	Listening on port 45197
+1517337408021	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9839): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517337565364	geckodriver	INFO	geckodriver 0.19.0
+1517337565367	geckodriver	INFO	Listening on 127.0.0.1:50175
+1517337566484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AYFzMPRmriUD"
+
+(firefox:10067): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337567010	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:10123): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337568126	Marionette	INFO	Listening on port 39049
+1517337568202	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10176): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517337700784	geckodriver	INFO	geckodriver 0.19.0
+1517337700787	geckodriver	INFO	Listening on 127.0.0.1:38027
+1517337701902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rDbzRnm7HxZl"
+
+(firefox:10314): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337702453	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:10368): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337703554	Marionette	INFO	Listening on port 41499
+1517337703613	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10421): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517337954853	geckodriver	INFO	geckodriver 0.19.0
+1517337954856	geckodriver	INFO	Listening on 127.0.0.1:47121
+1517337955970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Nbybj7qOV9Z7"
+
+(firefox:11426): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337956461	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:11481): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517337957564	Marionette	INFO	Listening on port 44563
+1517337957580	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11537): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x48000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x48000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x48000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517338004021	geckodriver	INFO	geckodriver 0.19.0
+1517338004025	geckodriver	INFO	Listening on 127.0.0.1:59355
+1517338005141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3islRoOtlPdt"
+
+(firefox:11632): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338005632	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:11686): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338006789	Marionette	INFO	Listening on port 41995
+1517338006851	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11740): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 11686, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517338067974	geckodriver	INFO	geckodriver 0.19.0
+1517338067977	geckodriver	INFO	Listening on 127.0.0.1:39139
+1517338069093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2DqGP5lEPfCO"
+
+(firefox:11829): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338069584	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:11884): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338070723	Marionette	INFO	Listening on port 36833
+1517338070800	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11936): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338122818	geckodriver	INFO	geckodriver 0.19.0
+1517338122823	geckodriver	INFO	Listening on 127.0.0.1:57463
+1517338123930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0FlgzY1U6lWA"
+
+(firefox:12013): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338124442	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:12069): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338125603	Marionette	INFO	Listening on port 41835
+1517338125646	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12122): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338158381	geckodriver	INFO	geckodriver 0.19.0
+1517338158384	geckodriver	INFO	Listening on 127.0.0.1:40043
+1517338159503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HRXcQKn3kimp"
+
+(firefox:12188): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338159996	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:12242): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338161139	Marionette	INFO	Listening on port 37155
+1517338161212	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12292): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338242201	geckodriver	INFO	geckodriver 0.19.0
+1517338242205	geckodriver	INFO	Listening on 127.0.0.1:56795
+1517338243314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y1ANhvSkOi4c"
+
+(firefox:12404): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338243811	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:12458): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338245056	Marionette	INFO	Listening on port 35451
+1517338245125	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12509): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12509, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12458, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517338276281	geckodriver	INFO	geckodriver 0.19.0
+1517338276285	geckodriver	INFO	Listening on 127.0.0.1:48253
+1517338277399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PeLPSKzVFmBL"
+
+(firefox:12582): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338277888	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:12637): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338278993	Marionette	INFO	Listening on port 37181
+1517338279008	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12690): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 12637, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12637, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12637, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517338283617	geckodriver	INFO	geckodriver 0.19.0
+1517338283620	geckodriver	INFO	Listening on 127.0.0.1:33403
+1517338284747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nR7GcgfX7b6T"
+
+(firefox:12736): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338285261	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:12791): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338286425	Marionette	INFO	Listening on port 46391
+1517338286471	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12841): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 12791, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12791, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517338296101	geckodriver	INFO	geckodriver 0.19.0
+1517338296104	geckodriver	INFO	Listening on 127.0.0.1:60347
+1517338297218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oiUMQMtwLzEG"
+
+(firefox:12895): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338297717	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:12950): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338298880	Marionette	INFO	Listening on port 36081
+1517338298926	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13003): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 12950, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13003, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12950, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517338671896	geckodriver	INFO	geckodriver 0.19.0
+1517338671900	geckodriver	INFO	Listening on 127.0.0.1:60027
+1517338673017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BfWGpND0dC0t"
+
+(firefox:13286): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338673506	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:13341): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338674616	Marionette	INFO	Listening on port 33379
+1517338674633	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13390): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 13341, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13341, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517338863753	geckodriver	INFO	geckodriver 0.19.0
+1517338863756	geckodriver	INFO	Listening on 127.0.0.1:48703
+1517338864871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aiOH5HVVDTT4"
+
+(firefox:13658): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338865378	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:13712): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517338866550	Marionette	INFO	Listening on port 43487
+1517338866596	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13762): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 13712, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13712, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517340554688	geckodriver	INFO	geckodriver 0.19.0
+1517340554691	geckodriver	INFO	Listening on 127.0.0.1:33947
+1517340555803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VNlnjp6abkus"
+
+(firefox:15301): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340556319	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:15356): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340557435	Marionette	INFO	Listening on port 43023
+1517340557516	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15409): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517340588729	geckodriver	INFO	geckodriver 0.19.0
+1517340588733	geckodriver	INFO	Listening on 127.0.0.1:49295
+1517340589844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.705QPOmkN8Wg"
+
+(firefox:15489): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340590387	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:15548): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340591490	Marionette	INFO	Listening on port 43365
+1517340591557	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15604): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340674885	geckodriver	INFO	geckodriver 0.19.0
+1517340674889	geckodriver	INFO	Listening on 127.0.0.1:60141
+1517340676018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dacUTHoJzSTs"
+
+(firefox:15730): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340676523	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:15786): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340677634	Marionette	INFO	Listening on port 42255
+1517340677727	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15840): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox:15951): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/134939/21217877/dcm/dcmads.js?adsafe_preview=${IS_PREVIEW}, line 181: NS_ERROR_NOT_INITIALIZED: 
+1517340842014	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1517340843363	addons.webextension.{62c1d54c-f371-4d89-8e07-69e67c8ebea8}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+
+(/usr/lib/firefox/firefox:16155): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340976763	geckodriver	INFO	geckodriver 0.19.0
+1517340976767	geckodriver	INFO	Listening on 127.0.0.1:53269
+1517340977878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Eya5EL2azTNS"
+
+(firefox:16206): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340978378	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:16262): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517340979527	Marionette	INFO	Listening on port 37353
+1517340979590	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16313): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517341013684	geckodriver	INFO	geckodriver 0.19.0
+1517341013689	geckodriver	INFO	Listening on 127.0.0.1:43123
+1517341014803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.agraFR24ZXeG"
+
+(firefox:16390): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517341015296	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:16445): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517341016450	Marionette	INFO	Listening on port 40969
+1517341016513	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16498): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 15730, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1517343100795	geckodriver	INFO	geckodriver 0.19.0
+1517343100800	geckodriver	INFO	Listening on 127.0.0.1:50405
+1517343101911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dHnrMbSsv2Bp"
+
+(firefox:17953): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343102448	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:18008): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343103667	Marionette	INFO	Listening on port 36255
+1517343103727	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18059): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343170446	geckodriver	INFO	geckodriver 0.19.0
+1517343170449	geckodriver	INFO	Listening on 127.0.0.1:50471
+1517343171564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.K7qMlsKKfezP"
+
+(firefox:18171): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343172062	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:18226): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343173204	Marionette	INFO	Listening on port 42455
+1517343173274	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18279): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343236826	geckodriver	INFO	geckodriver 0.19.0
+1517343236830	geckodriver	INFO	Listening on 127.0.0.1:41123
+1517343237943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k8LIpVjqVDyM"
+
+(firefox:18397): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343238517	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:18452): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343239642	Marionette	INFO	Listening on port 43489
+1517343239651	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18507): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343366026	geckodriver	INFO	geckodriver 0.19.0
+1517343366029	geckodriver	INFO	Listening on 127.0.0.1:58329
+1517343367140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dHDfydZDWRbA"
+
+(firefox:18629): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343367632	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:18685): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343368805	Marionette	INFO	Listening on port 44997
+1517343368847	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18737): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:18828): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343478902	geckodriver	INFO	geckodriver 0.19.0
+1517343478905	geckodriver	INFO	Listening on 127.0.0.1:54063
+1517343480018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f7XJn4Fxtvwr"
+
+(firefox:18907): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343480522	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:18961): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343481647	Marionette	INFO	Listening on port 43421
+1517343481729	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19012): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343501494	geckodriver	INFO	geckodriver 0.19.0
+1517343501498	geckodriver	INFO	Listening on 127.0.0.1:60625
+1517343502619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2bcnkWa0KjeV"
+
+(firefox:19084): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343503196	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19140): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343504331	Marionette	INFO	Listening on port 35595
+1517343504431	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19191): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517343536351	geckodriver	INFO	geckodriver 0.19.0
+1517343536355	geckodriver	INFO	Listening on 127.0.0.1:41695
+1517343537468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S9bQg2RK459i"
+
+(firefox:19262): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343537980	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19318): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343539187	Marionette	INFO	Listening on port 35931
+1517343539283	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19372): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343594051	geckodriver	INFO	geckodriver 0.19.0
+1517343594056	geckodriver	INFO	Listening on 127.0.0.1:57045
+1517343595173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lUWHWOsKrLpu"
+
+(firefox:19466): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343595700	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19520): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343596837	Marionette	INFO	Listening on port 45235
+1517343596880	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19574): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox:19637): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343656475	geckodriver	INFO	geckodriver 0.19.0
+1517343656479	geckodriver	INFO	Listening on 127.0.0.1:47367
+1517343657593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j29dtcQ1s5WE"
+
+(firefox:19696): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343658108	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19751): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343659270	Marionette	INFO	Listening on port 34777
+1517343659307	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19801): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343681722	geckodriver	INFO	geckodriver 0.19.0
+1517343681726	geckodriver	INFO	Listening on 127.0.0.1:60605
+1517343682842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZHjosLPJsszt"
+
+(firefox:19865): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343683378	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19921): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343684548	Marionette	INFO	Listening on port 40315
+1517343684653	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19974): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 19921, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517343738262	geckodriver	INFO	geckodriver 0.19.0
+1517343738267	geckodriver	INFO	Listening on 127.0.0.1:57229
+1517343739389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2O9oCOPBlE3P"
+
+(firefox:20071): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343739913	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20126): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343741096	Marionette	INFO	Listening on port 33493
+1517343741197	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20178): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox:20266): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343816216	geckodriver	INFO	geckodriver 0.19.0
+1517343816221	geckodriver	INFO	Listening on 127.0.0.1:36019
+1517343817342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IEgCYa7Blu4R"
+
+(firefox:20360): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343817862	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20414): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517343818981	Marionette	INFO	Listening on port 36649
+1517343819061	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20464): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+(/usr/lib/firefox/firefox:20570): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 18059, MediaPlayback #2] WARNING: Decoder=7f680589fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-iXzMln/firefox-58.0+build6/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 18059, MediaPlayback #2] WARNING: Decoder=7f680589fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-iXzMln/firefox-58.0+build6/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 18059, MediaPlayback #3] WARNING: Decoder=7f680589fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-iXzMln/firefox-58.0+build6/dom/media/MediaDecoderStateMachine.cpp, line 3365
+1517346653583	geckodriver	INFO	geckodriver 0.19.0
+1517346653586	geckodriver	INFO	Listening on 127.0.0.1:42701
+1517346654699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qawZ1NbLsHRq"
+
+(firefox:21262): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346655201	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21316): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346656286	Marionette	INFO	Listening on port 40587
+1517346656322	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21369): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346684375	geckodriver	INFO	geckodriver 0.19.0
+1517346684380	geckodriver	INFO	Listening on 127.0.0.1:46081
+1517346685489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RDsHWgzFhnEV"
+
+(firefox:21443): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346685996	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21499): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346687137	Marionette	INFO	Listening on port 44705
+1517346687219	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21552): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346766816	geckodriver	INFO	geckodriver 0.19.0
+1517346766821	geckodriver	INFO	Listening on 127.0.0.1:34189
+1517346767936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OjbN8CJBmM3p"
+
+(firefox:21654): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346768459	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21708): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517346769625	Marionette	INFO	Listening on port 39181
+1517346769646	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21757): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21708, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517347067440	geckodriver	INFO	geckodriver 0.19.0
+1517347067445	geckodriver	INFO	Listening on 127.0.0.1:42541
+1517347068561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6uxQyj7BbbLr"
+
+(firefox:21989): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347069071	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22045): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347070212	Marionette	INFO	Listening on port 43141
+1517347070272	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22097): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347101248	geckodriver	INFO	geckodriver 0.19.0
+1517347101252	geckodriver	INFO	Listening on 127.0.0.1:33093
+1517347102374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uwBUtRjxQMlm"
+
+(firefox:22169): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347102909	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22224): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347104132	Marionette	INFO	Listening on port 37965
+1517347104193	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22277): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347174994	geckodriver	INFO	geckodriver 0.19.0
+1517347175001	geckodriver	INFO	Listening on 127.0.0.1:47127
+1517347176118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HtBlRXsfL0fe"
+
+(firefox:22363): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347176752	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22421): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347177964	Marionette	INFO	Listening on port 38875
+1517347178029	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22477): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347218338	geckodriver	INFO	geckodriver 0.19.0
+1517347218342	geckodriver	INFO	Listening on 127.0.0.1:51557
+1517347219454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Co332bQkK0Rf"
+
+(firefox:22573): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347219962	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22627): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347221096	Marionette	INFO	Listening on port 41285
+1517347221173	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22681): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517347425119	geckodriver	INFO	geckodriver 0.19.0
+1517347425123	geckodriver	INFO	Listening on 127.0.0.1:55509
+1517347425241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GFQcBZXPqYdk"
+
+(firefox:22871): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347425756	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22925): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347426913	Marionette	INFO	Listening on port 42515
+1517347426959	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22977): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347458884	geckodriver	INFO	geckodriver 0.19.0
+1517347458889	geckodriver	INFO	Listening on 127.0.0.1:58119
+1517347460008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZEqmBx0Jt0BD"
+
+(firefox:23049): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347460579	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23103): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517347461700	Marionette	INFO	Listening on port 37237
+1517347461720	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23153): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23153, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: chrome://global/content/viewZoomOverlay.js, line 47: TypeError: zoom is undefined
+JavaScript error: resource:///modules/ZoomUI.jsm, line 69: TypeError: win.gBrowser is undefined
+JavaScript error: resource:///modules/ZoomUI.jsm, line 69: TypeError: win.gBrowser is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348047871	geckodriver	INFO	geckodriver 0.19.0
+1517348047875	geckodriver	INFO	Listening on 127.0.0.1:46089
+1517348048993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wHUwBKSWc7AM"
+
+(firefox:23479): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348049502	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23534): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348050687	Marionette	INFO	Listening on port 42345
+1517348050718	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23586): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1517348061811	geckodriver	INFO	geckodriver 0.19.0
+1517348061817	geckodriver	INFO	Listening on 127.0.0.1:42627
+1517348062920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8vQsp3k5GsnC"
+
+(firefox:23639): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348063456	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23694): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348064638	Marionette	INFO	Listening on port 40201
+1517348064732	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23742): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348071723	geckodriver	INFO	geckodriver 0.19.0
+1517348071730	geckodriver	INFO	Listening on 127.0.0.1:55269
+1517348072848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pau49jUZvUsg"
+
+(firefox:23800): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348073381	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23854): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348074530	Marionette	INFO	Listening on port 42475
+1517348074576	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23904): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348085037	geckodriver	INFO	geckodriver 0.19.0
+1517348085043	geckodriver	INFO	Listening on 127.0.0.1:59697
+1517348086151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sPscdkZvRarE"
+
+(firefox:23956): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348086663	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24013): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348087755	Marionette	INFO	Listening on port 36465
+1517348087873	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24061): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348315839	geckodriver	INFO	geckodriver 0.19.0
+1517348315843	geckodriver	INFO	Listening on 127.0.0.1:47143
+1517348316956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z1UTCnn0DJ88"
+
+(firefox:24232): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348317462	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24287): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348318585	Marionette	INFO	Listening on port 37319
+1517348318665	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24339): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24339, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 24287, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24287, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348396103	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1517348397279	addons.webextension.{62c1d54c-f371-4d89-8e07-69e67c8ebea8}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348435763	geckodriver	INFO	geckodriver 0.19.0
+1517348435767	geckodriver	INFO	Listening on 127.0.0.1:52501
+1517348436881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4Akt5luE5LUa"
+
+(firefox:24541): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348437434	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24597): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348438690	Marionette	INFO	Listening on port 39731
+1517348438797	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24650): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348525812	geckodriver	INFO	geckodriver 0.19.0
+1517348525816	geckodriver	INFO	Listening on 127.0.0.1:47963
+1517348526937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.79Gi8RpMCbxk"
+
+(firefox:24749): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348527440	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24805): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348528565	Marionette	INFO	Listening on port 36237
+1517348528661	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24856): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348560591	geckodriver	INFO	geckodriver 0.19.0
+1517348560594	geckodriver	INFO	Listening on 127.0.0.1:33437
+1517348561723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ciMY0ITZR5Le"
+
+(firefox:24926): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348562257	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24979): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348563432	Marionette	INFO	Listening on port 41941
+1517348563531	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25034): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348656444	geckodriver	INFO	geckodriver 0.19.0
+1517348656448	geckodriver	INFO	Listening on 127.0.0.1:38555
+1517348657571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OA0vl0fzch6Q"
+
+(firefox:25122): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348658112	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+
+(/usr/lib/firefox/firefox:25179): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348659460	Marionette	INFO	Listening on port 33143
+1517348659484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+
+(/usr/lib/firefox/firefox:25234): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25234, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 25179, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348693604	geckodriver	INFO	geckodriver 0.19.0
+1517348693608	geckodriver	INFO	Listening on 127.0.0.1:52577
+1517348694726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hpQP0WhATWKE"
+
+(firefox:25301): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348695261	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25355): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348696416	Marionette	INFO	Listening on port 46825
+1517348696445	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25407): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348722621	geckodriver	INFO	geckodriver 0.19.0
+1517348722625	geckodriver	INFO	Listening on 127.0.0.1:37723
+1517348723747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XwIz1sIP065w"
+
+(firefox:25479): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348724303	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25533): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348725484	Marionette	INFO	Listening on port 37861
+1517348725565	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25585): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348806408	geckodriver	INFO	geckodriver 0.19.0
+1517348806412	geckodriver	INFO	Listening on 127.0.0.1:54611
+1517348807538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ltH0b87uhtJu"
+
+(firefox:25681): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348808076	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25736): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348809281	Marionette	INFO	Listening on port 32811
+1517348809355	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25787): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25787, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517348953598	geckodriver	INFO	geckodriver 0.19.0
+1517348953602	geckodriver	INFO	Listening on 127.0.0.1:60183
+1517348954718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q4cyhjH4i2O6"
+
+(firefox:25938): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348955221	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25993): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517348956419	Marionette	INFO	Listening on port 37235
+1517348956428	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26045): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25993, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517349171521	geckodriver	INFO	geckodriver 0.19.0
+1517349171525	geckodriver	INFO	Listening on 127.0.0.1:51939
+1517349172649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dXsOx9un5obY"
+
+(firefox:26207): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349173182	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26262): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349174354	Marionette	INFO	Listening on port 40331
+1517349174456	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26314): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349184291	geckodriver	INFO	geckodriver 0.19.0
+1517349184298	geckodriver	INFO	Listening on 127.0.0.1:46645
+1517349185405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3wefynXXmyok"
+
+(firefox:26363): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349185915	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26419): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349187086	Marionette	INFO	Listening on port 33627
+1517349187116	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26467): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349193908	geckodriver	INFO	geckodriver 0.19.0
+1517349193913	geckodriver	INFO	Listening on 127.0.0.1:54675
+1517349195024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9YdrlZgtTIae"
+
+(firefox:26517): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349195545	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26572): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349196698	Marionette	INFO	Listening on port 38631
+1517349196749	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26622): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 26572, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517349234596	geckodriver	INFO	geckodriver 0.19.0
+1517349234599	geckodriver	INFO	Listening on 127.0.0.1:56029
+1517349235715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0qbIBCAdhQNB"
+
+(firefox:26698): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349236241	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26753): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349237403	Marionette	INFO	Listening on port 46273
+1517349237424	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26806): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26753, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517349479980	geckodriver	INFO	geckodriver 0.19.0
+1517349479984	geckodriver	INFO	Listening on 127.0.0.1:56567
+1517349481117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FolG7Ief0SZc"
+
+(firefox:26964): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349481666	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:27019): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349482840	Marionette	INFO	Listening on port 35109
+1517349482930	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27071): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20570, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18059, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517349575538	geckodriver	INFO	geckodriver 0.19.0
+1517349575543	geckodriver	INFO	Listening on 127.0.0.1:39801
+1517349576660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hjZ26ugIQXh7"
+
+(firefox:27216): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349577186	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:27274): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1517349578331	Marionette	INFO	Listening on port 38887
+1517349578372	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27327): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox:27392): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
