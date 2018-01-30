@@ -37,7 +37,7 @@ def send_input(driver,element,query):
     element.clear()
     element.send_keys(query)
     element.send_keys(Keys.RETURN)
-    assert "No results found." not in driver.page_source
+    # assert "No results found." not in driver.page_source
 
 
 def wait_for_page_load(self, timeout=30):
