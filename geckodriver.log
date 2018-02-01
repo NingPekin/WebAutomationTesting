@@ -1422,3 +1422,4 @@ IPDL protocol error: Handler returned error code!
 console.error: 
   Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter56
 [Parent 610, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 1503, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
