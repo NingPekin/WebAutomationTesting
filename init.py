@@ -15,6 +15,7 @@ def init_chrome_driver(file_path):
 def init_firefox_driver(file_path):
     driver = webdriver.Firefox(executable_path=file_path)
     driver.wait = WebDriverWait(driver, 10)
+
     return driver
 
 def navigate_to_website(driver, site):

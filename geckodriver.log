@@ -1423,3 +1423,1149 @@ console.error:
   Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter56
 [Parent 610, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Parent 1503, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518976895738	geckodriver	INFO	geckodriver 0.19.0
+1518976895750	geckodriver	INFO	Listening on 127.0.0.1:43771
+1518976896859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qiJAvThbgpVG"
+
+(firefox:4340): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976897705	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4397): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976899203	Marionette	INFO	Listening on port 43349
+1518976899274	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4454): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976948103	geckodriver	INFO	geckodriver 0.19.0
+1518976948108	geckodriver	INFO	Listening on 127.0.0.1:33475
+1518976949233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HIAxRGHR3N5p"
+
+(firefox:4537): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976949754	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4591): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976950997	Marionette	INFO	Listening on port 45893
+1518976951056	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4645): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976984334	geckodriver	INFO	geckodriver 0.19.0
+1518976984337	geckodriver	INFO	Listening on 127.0.0.1:37339
+1518976985456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lOXef3dns7dA"
+
+(firefox:4720): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976985970	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4774): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1518976987109	Marionette	INFO	Listening on port 36367
+1518976987166	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4834): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519598400656	geckodriver	INFO	geckodriver 0.19.0
+1519598400667	geckodriver	INFO	Listening on 127.0.0.1:48993
+1519598401782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.noJeBPWDsIj5"
+
+(firefox:15853): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519598402700	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:15910): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519598404143	Marionette	INFO	Listening on port 46443
+
+(/usr/lib/firefox/firefox:15960): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519598405164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15910, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1519601916593	geckodriver	INFO	geckodriver 0.19.0
+1519601916597	geckodriver	INFO	Listening on 127.0.0.1:36479
+1519601917709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8hMwJkSEAcl5"
+
+(firefox:18999): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601918223	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19053): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601919400	Marionette	INFO	Listening on port 38277
+1519601919419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601919527	geckodriver	INFO	geckodriver 0.19.0
+1519601919531	geckodriver	INFO	Listening on 127.0.0.1:52867
+
+(/usr/lib/firefox/firefox:19116): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601920640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gmablurTvCHT"
+
+(firefox:19146): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601921175	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19201): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601922325	Marionette	INFO	Listening on port 34553
+1519601922365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601922470	geckodriver	INFO	geckodriver 0.19.0
+1519601922475	geckodriver	INFO	Listening on 127.0.0.1:47975
+
+(/usr/lib/firefox/firefox:19260): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519601923586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.raf3uE7MgZ1u"
+
+(firefox:19293): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519601924228	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19351): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601925440	Marionette	INFO	Listening on port 43965
+1519601925496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601925655	geckodriver	INFO	geckodriver 0.19.0
+1519601925660	geckodriver	INFO	Listening on 127.0.0.1:40395
+
+(/usr/lib/firefox/firefox:19419): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601926783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s7b4wE3mjFeH"
+
+(firefox:19451): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601927294	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19506): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601928464	Marionette	INFO	Listening on port 38641
+1519601928509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601928618	geckodriver	INFO	geckodriver 0.19.0
+1519601928621	geckodriver	INFO	Listening on 127.0.0.1:53443
+
+(/usr/lib/firefox/firefox:19563): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601929729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SaqCAH59mv31"
+
+(firefox:19592): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601930251	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19647): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601931428	Marionette	INFO	Listening on port 36325
+1519601931445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601931563	geckodriver	INFO	geckodriver 0.19.0
+1519601931569	geckodriver	INFO	Listening on 127.0.0.1:48461
+
+(/usr/lib/firefox/firefox:19701): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601932683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1sTFDkZvdIBZ"
+
+(firefox:19735): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601933210	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19790): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601934453	Marionette	INFO	Listening on port 43141
+1519601934499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601934596	geckodriver	INFO	geckodriver 0.19.0
+1519601934600	geckodriver	INFO	Listening on 127.0.0.1:47875
+
+(/usr/lib/firefox/firefox:19846): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601935716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h0j3Nfm9m3du"
+
+(firefox:19875): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601936262	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:19935): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601937572	Marionette	INFO	Listening on port 38793
+1519601937626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601937730	geckodriver	INFO	geckodriver 0.19.0
+1519601937735	geckodriver	INFO	Listening on 127.0.0.1:33561
+
+(/usr/lib/firefox/firefox:19990): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601938872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ihwCzoD0YWZK"
+
+(firefox:20019): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601939484	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20074): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601940765	Marionette	INFO	Listening on port 41329
+1519601940783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601940907	geckodriver	INFO	geckodriver 0.19.0
+1519601940910	geckodriver	INFO	Listening on 127.0.0.1:54907
+
+(/usr/lib/firefox/firefox:20135): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601942032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PjscQcYVRnFH"
+
+(firefox:20208): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601942590	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20268): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601943761	Marionette	INFO	Listening on port 32953
+1519601943864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601943969	geckodriver	INFO	geckodriver 0.19.0
+1519601943973	geckodriver	INFO	Listening on 127.0.0.1:58851
+
+(/usr/lib/firefox/firefox:20329): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601945093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fRn7JBQ5lNVJ"
+
+(firefox:20358): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601945647	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20412): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601946822	Marionette	INFO	Listening on port 46763
+1519601946912	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20464): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601947970	geckodriver	INFO	geckodriver 0.19.0
+1519601947974	geckodriver	INFO	Listening on 127.0.0.1:33985
+1519601949191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t3nUT5xpsYKK"
+
+(firefox:20504): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519601949753	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20565): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601950912	Marionette	INFO	Listening on port 33879
+1519601950999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601951124	geckodriver	INFO	geckodriver 0.19.0
+1519601951130	geckodriver	INFO	Listening on 127.0.0.1:38755
+
+(/usr/lib/firefox/firefox:20625): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601952251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.63nbYxYyR1oj"
+
+(firefox:20659): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601952761	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:20714): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601954066	Marionette	INFO	Listening on port 46769
+1519601954166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519601954267	geckodriver	INFO	geckodriver 0.19.0
+1519601954271	geckodriver	INFO	Listening on 127.0.0.1:43269
+
+(/usr/lib/firefox/firefox:20774): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519601955416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JB8EBchQnd8e"
+
+(firefox:20805): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19846, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19790, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20135, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20074, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20329, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19990, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19701, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19647, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20464, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19419, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19351, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20625, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20565, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20714, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602046152	geckodriver	INFO	geckodriver 0.19.0
+1519602046156	geckodriver	INFO	Listening on 127.0.0.1:58309
+1519602047280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mJdRnBpz6HlD"
+
+(firefox:20964): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602047818	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21018): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602048980	Marionette	INFO	Listening on port 45221
+1519602049003	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21069): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 21018, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602202711	geckodriver	INFO	geckodriver 0.19.0
+1519602202714	geckodriver	INFO	Listening on 127.0.0.1:43181
+1519602203837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6mIwmxfbpkoh"
+
+(firefox:21215): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602204368	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21270): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602205525	Marionette	INFO	Listening on port 46061
+1519602205547	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21330): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 21270, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21270, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602268848	geckodriver	INFO	geckodriver 0.19.0
+1519602268852	geckodriver	INFO	Listening on 127.0.0.1:33073
+1519602269970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WfXxnHb2i2p3"
+
+(firefox:21417): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602270520	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21472): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602271697	Marionette	INFO	Listening on port 41337
+1519602271781	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21525): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21525, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1519602287284	geckodriver	INFO	geckodriver 0.19.0
+1519602287288	geckodriver	INFO	Listening on 127.0.0.1:34227
+1519602288410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XynFDksJtuLj"
+
+(firefox:21595): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602288931	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:21649): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602290056	Marionette	INFO	Listening on port 42605
+1519602290128	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21704): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21704, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602452896	geckodriver	INFO	geckodriver 0.19.0
+1519602452902	geckodriver	INFO	Listening on 127.0.0.1:39853
+1519602454028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vYb3OdpbYtTQ"
+
+(firefox:21986): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602454537	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22040): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602455685	Marionette	INFO	Listening on port 34275
+1519602455745	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22099): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22099, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22040, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602544816	geckodriver	INFO	geckodriver 0.19.0
+1519602544820	geckodriver	INFO	Listening on 127.0.0.1:34983
+1519602545938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.joFN9TdLGktR"
+
+(firefox:22278): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602546463	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22332): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602547655	Marionette	INFO	Listening on port 43851
+1519602547758	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22382): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 22332, Chrome_ChildThread] WARNING: pipe error (24): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602627183	geckodriver	INFO	geckodriver 0.19.0
+1519602627188	geckodriver	INFO	Listening on 127.0.0.1:54767
+1519602628303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4TGTUCshqJUs"
+
+(firefox:22513): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602628834	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22566): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602629988	Marionette	INFO	Listening on port 38421
+1519602630013	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22616): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519602707391	geckodriver	INFO	geckodriver 0.19.0
+1519602707394	geckodriver	INFO	Listening on 127.0.0.1:57621
+1519602708519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rK9HXk6C7vnR"
+
+(firefox:22803): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602709047	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:22857): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602710217	Marionette	INFO	Listening on port 35417
+1519602710232	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22914): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 22857, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519602798228	geckodriver	INFO	geckodriver 0.19.0
+1519602798232	geckodriver	INFO	Listening on 127.0.0.1:52737
+1519602799352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2MTSfJuM26WS"
+
+(firefox:23102): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602799878	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23157): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602801033	Marionette	INFO	Listening on port 46229
+1519602801081	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23209): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519602845792	geckodriver	INFO	geckodriver 0.19.0
+1519602845797	geckodriver	INFO	Listening on 127.0.0.1:52939
+1519602846911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ceoy0zlNE7hZ"
+
+(firefox:23289): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602847435	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23344): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602848617	Marionette	INFO	Listening on port 33465
+1519602848741	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23398): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23398, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519602970534	geckodriver	INFO	geckodriver 0.19.0
+1519602970538	geckodriver	INFO	Listening on 127.0.0.1:48531
+1519602971719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hgK8NqqbzSN0"
+
+(firefox:23596): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602972273	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23653): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519602973522	Marionette	INFO	Listening on port 38117
+1519602973544	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23702): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 23653, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519603043194	geckodriver	INFO	geckodriver 0.19.0
+1519603043197	geckodriver	INFO	Listening on 127.0.0.1:46403
+1519603044317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2hv3DZ3eOi9z"
+
+(firefox:23804): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603044892	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:23860): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603046067	Marionette	INFO	Listening on port 36535
+1519603046129	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23912): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603077891	geckodriver	INFO	geckodriver 0.19.0
+1519603077896	geckodriver	INFO	Listening on 127.0.0.1:55763
+1519603079018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ubKHkdYJ2NxS"
+
+(firefox:23982): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603079570	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24037): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603080754	Marionette	INFO	Listening on port 38557
+1519603080828	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24088): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24088, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 24037, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519603096170	geckodriver	INFO	geckodriver 0.19.0
+1519603096175	geckodriver	INFO	Listening on 127.0.0.1:35095
+1519603097327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Zzo5v1GQlsnL"
+
+(firefox:24162): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603097949	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24217): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603099207	Marionette	INFO	Listening on port 37111
+1519603099237	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24268): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603169353	geckodriver	INFO	geckodriver 0.19.0
+1519603169357	geckodriver	INFO	Listening on 127.0.0.1:42225
+1519603170488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PHi4ZQsUkpAn"
+
+(firefox:24427): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603171007	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24483): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603172131	Marionette	INFO	Listening on port 32975
+1519603172200	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24540): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603193725	geckodriver	INFO	geckodriver 0.19.0
+1519603193730	geckodriver	INFO	Listening on 127.0.0.1:47531
+1519603194846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zL3ce5Asv4KX"
+
+(firefox:24622): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603195393	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24678): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603196543	Marionette	INFO	Listening on port 36165
+1519603196558	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24732): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 24678, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519603322132	geckodriver	INFO	geckodriver 0.19.0
+1519603322137	geckodriver	INFO	Listening on 127.0.0.1:55389
+1519603323248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n7sCsZ5kjdmi"
+
+(firefox:24931): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603323784	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24985): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603324951	Marionette	INFO	Listening on port 37369
+1519603324963	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25041): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1519603600468	geckodriver	INFO	geckodriver 0.19.0
+1519603600471	geckodriver	INFO	Listening on 127.0.0.1:32809
+1519603601588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mPabDwkN8d1c"
+
+(firefox:25333): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603602103	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25388): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603603269	Marionette	INFO	Listening on port 45681
+1519603603297	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25440): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603625368	geckodriver	INFO	geckodriver 0.19.0
+1519603625372	geckodriver	INFO	Listening on 127.0.0.1:55173
+1519603626489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eJWcrgb41NFM"
+
+(firefox:25502): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603627000	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25556): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603628175	Marionette	INFO	Listening on port 45211
+1519603628197	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25607): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25607, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519603654494	geckodriver	INFO	geckodriver 0.19.0
+1519603654498	geckodriver	INFO	Listening on 127.0.0.1:35207
+1519603655615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xHSCLmDlJ6Kp"
+
+(firefox:25686): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603656125	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:25740): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603657296	Marionette	INFO	Listening on port 42093
+1519603657326	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25798): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 25740, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf
+
+(/usr/lib/firefox/firefox:25873): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603793244	geckodriver	INFO	geckodriver 0.19.0
+1519603793248	geckodriver	INFO	Listening on 127.0.0.1:47933
+1519603794363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B94BDHzHDL4l"
+
+(firefox:26044): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603794904	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26099): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603796098	Marionette	INFO	Listening on port 35741
+1519603796181	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26153): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603826165	geckodriver	INFO	geckodriver 0.19.0
+1519603826168	geckodriver	INFO	Listening on 127.0.0.1:39827
+1519603827313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sTZrlYBeqhFf"
+
+(firefox:26239): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603827828	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26293): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603828993	Marionette	INFO	Listening on port 36913
+1519603829039	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26346): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26346, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1519603852495	geckodriver	INFO	geckodriver 0.19.0
+1519603852499	geckodriver	INFO	Listening on 127.0.0.1:42385
+1519603853614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FO0fPg5Vxwak"
+
+(firefox:26426): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603854150	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26480): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603855416	Marionette	INFO	Listening on port 37159
+1519603855429	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26537): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 26480, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519603893893	geckodriver	INFO	geckodriver 0.19.0
+1519603893898	geckodriver	INFO	Listening on 127.0.0.1:49923
+1519603895020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bf0zUE0VVOwS"
+
+(firefox:26650): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603895538	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:26705): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519603896706	Marionette	INFO	Listening on port 46019
+1519603896730	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26761): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 26705, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26705, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519604665895	geckodriver	INFO	geckodriver 0.19.0
+1519604665899	geckodriver	INFO	Listening on 127.0.0.1:60975
+1519604667016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pnavqeQ9WqkL"
+
+(firefox:27467): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604667559	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:27521): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604669076	Marionette	INFO	Listening on port 41369
+1519604669129	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27575): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[Child 27521, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27575, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519604746390	geckodriver	INFO	geckodriver 0.19.0
+1519604746393	geckodriver	INFO	Listening on 127.0.0.1:50857
+1519604747516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pJOBuo077HNU"
+
+(firefox:27696): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604748019	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:27750): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://onboarding/onboarding.js, line 18: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIStringBundle.GetStringFromName]
+1519604749183	Marionette	INFO	Listening on port 39563
+1519604749242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604749409	geckodriver	INFO	geckodriver 0.19.0
+1519604749413	geckodriver	INFO	Listening on 127.0.0.1:55595
+
+(/usr/lib/firefox/firefox:27814): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604750528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Epbw96Q8ggVY"
+
+(firefox:27843): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604751023	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:27897): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604752174	Marionette	INFO	Listening on port 43997
+1519604752237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604752367	geckodriver	INFO	geckodriver 0.19.0
+1519604752370	geckodriver	INFO	Listening on 127.0.0.1:38289
+
+(/usr/lib/firefox/firefox:27954): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604753483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XPfGNjZsNxUG"
+
+(firefox:27983): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604753996	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28037): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604755158	Marionette	INFO	Listening on port 40829
+1519604755201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604755332	geckodriver	INFO	geckodriver 0.19.0
+1519604755336	geckodriver	INFO	Listening on 127.0.0.1:40491
+
+(/usr/lib/firefox/firefox:28093): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604756441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QhV3DlybtpGL"
+
+(firefox:28124): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604756952	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28178): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604758045	Marionette	INFO	Listening on port 33193
+
+(/usr/lib/firefox/firefox:28228): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604759152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604759270	geckodriver	INFO	geckodriver 0.19.0
+1519604759276	geckodriver	INFO	Listening on 127.0.0.1:34587
+1519604760394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WFRC0Z875sAx"
+
+(firefox:28266): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604760975	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28320): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604762432	Marionette	INFO	Listening on port 36885
+1519604762507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604762632	geckodriver	INFO	geckodriver 0.19.0
+1519604762637	geckodriver	INFO	Listening on 127.0.0.1:41185
+
+(/usr/lib/firefox/firefox:28377): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604763811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FiwFijvyMzKH"
+
+(firefox:28406): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604764347	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28460): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604765524	Marionette	INFO	Listening on port 35245
+1519604765639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604765776	geckodriver	INFO	geckodriver 0.19.0
+1519604765781	geckodriver	INFO	Listening on 127.0.0.1:43771
+
+(/usr/lib/firefox/firefox:28518): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604766890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ct30DVxdvwMR"
+
+(firefox:28547): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604767406	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28602): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604768535	Marionette	INFO	Listening on port 38545
+1519604768602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604768762	geckodriver	INFO	geckodriver 0.19.0
+1519604768766	geckodriver	INFO	Listening on 127.0.0.1:48235
+
+(/usr/lib/firefox/firefox:28658): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604769880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a25LAaAvGbk4"
+
+(firefox:28693): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604770410	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28750): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604771577	Marionette	INFO	Listening on port 39293
+1519604771591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604771713	geckodriver	INFO	geckodriver 0.19.0
+1519604771718	geckodriver	INFO	Listening on 127.0.0.1:35589
+
+(/usr/lib/firefox/firefox:28808): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604772832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fYADVFwhHjN0"
+
+(firefox:28839): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604773436	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:28897): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604774736	Marionette	INFO	Listening on port 36705
+1519604774749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604774880	geckodriver	INFO	geckodriver 0.19.0
+1519604774885	geckodriver	INFO	Listening on 127.0.0.1:46923
+
+(/usr/lib/firefox/firefox:28955): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604775997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2levODuPB56s"
+
+(firefox:28984): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604776554	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29042): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604777733	Marionette	INFO	Listening on port 38913
+1519604777806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604777926	geckodriver	INFO	geckodriver 0.19.0
+1519604777932	geckodriver	INFO	Listening on 127.0.0.1:48651
+
+(/usr/lib/firefox/firefox:29109): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604779045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6GPJFUO3IOmm"
+
+(firefox:29140): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604779570	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29198): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604780775	Marionette	INFO	Listening on port 33113
+1519604780865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604781005	geckodriver	INFO	geckodriver 0.19.0
+1519604781010	geckodriver	INFO	Listening on 127.0.0.1:40561
+
+(/usr/lib/firefox/firefox:29259): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604782117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oYUARwiPevU5"
+
+(firefox:29291): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604782667	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29345): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604783890	Marionette	INFO	Listening on port 34375
+1519604783931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604784055	geckodriver	INFO	geckodriver 0.19.0
+1519604784059	geckodriver	INFO	Listening on 127.0.0.1:56007
+
+(/usr/lib/firefox/firefox:29402): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604785164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PPn6MYteyV2D"
+
+(firefox:29431): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604785727	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29489): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604786901	Marionette	INFO	Listening on port 37187
+1519604786972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604787084	geckodriver	INFO	geckodriver 0.19.0
+1519604787089	geckodriver	INFO	Listening on 127.0.0.1:51843
+
+(/usr/lib/firefox/firefox:29544): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604788207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EvPrmvgRi6EK"
+
+(firefox:29573): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604788756	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29630): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604790094	Marionette	INFO	Listening on port 34511
+1519604790122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604790246	geckodriver	INFO	geckodriver 0.19.0
+1519604790251	geckodriver	INFO	Listening on 127.0.0.1:58669
+
+(/usr/lib/firefox/firefox:29686): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604791382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cAXGBzDA8Bp8"
+
+(firefox:29715): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604791932	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29772): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604793110	Marionette	INFO	Listening on port 34115
+1519604793191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519604793311	geckodriver	INFO	geckodriver 0.19.0
+1519604793315	geckodriver	INFO	Listening on 127.0.0.1:41915
+
+(/usr/lib/firefox/firefox:29828): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604794436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q8RJW0FUvYv3"
+
+(firefox:29857): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604794971	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:29914): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604796204	Marionette	INFO	Listening on port 33185
+1519604796246	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29967): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519604878498	geckodriver	INFO	geckodriver 0.19.0
+1519604878503	geckodriver	INFO	Listening on 127.0.0.1:55023
+1519604879626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jpeKHzXXCePB"
+
+(firefox:30681): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604880127	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:30736): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604881302	Marionette	INFO	Listening on port 34997
+1519604881356	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30798): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604891071	geckodriver	INFO	geckodriver 0.19.0
+1519604891074	geckodriver	INFO	Listening on 127.0.0.1:50821
+1519604892187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oINddjwURo0b"
+
+(firefox:30842): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604892694	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:30903): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604893892	Marionette	INFO	Listening on port 39935
+1519604893912	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30951): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604908425	geckodriver	INFO	geckodriver 0.19.0
+1519604908441	geckodriver	INFO	Listening on 127.0.0.1:56467
+1519604909539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L8Jr3PpiH0Nd"
+
+(firefox:31007): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604910042	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:31062): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604911205	Marionette	INFO	Listening on port 38925
+1519604911251	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31119): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 31119, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519604919075	geckodriver	INFO	geckodriver 0.19.0
+1519604919079	geckodriver	INFO	Listening on 127.0.0.1:56317
+1519604920191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VruVyqyMwrXb"
+
+(firefox:31170): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604920734	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:31224): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604921918	Marionette	INFO	Listening on port 42361
+1519604922002	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31280): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 31224, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519604935735	geckodriver	INFO	geckodriver 0.19.0
+1519604935740	geckodriver	INFO	Listening on 127.0.0.1:40105
+1519604936851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zAt2I5BynSjF"
+
+(firefox:31333): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604937351	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:31389): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519604938475	Marionette	INFO	Listening on port 43227
+1519604938565	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31449): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 30798, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 30736, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519605252264	geckodriver	INFO	geckodriver 0.19.0
+1519605252268	geckodriver	INFO	Listening on 127.0.0.1:54595
+1519605253388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bAwpm764k9Hh"
+
+(firefox:31767): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605253897	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:31821): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605255000	Marionette	INFO	Listening on port 36079
+1519605255103	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31879): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox:32039): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+(/usr/lib/firefox/firefox:32122): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605592532	geckodriver	INFO	geckodriver 0.19.0
+1519605592537	geckodriver	INFO	Listening on 127.0.0.1:54675
+1519605593665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.19oZgHz2XoFb"
+
+(firefox:32265): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605594260	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:32320): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605595456	Marionette	INFO	Listening on port 44265
+1519605595482	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32376): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605929334	geckodriver	INFO	geckodriver 0.19.0
+1519605929338	geckodriver	INFO	Listening on 127.0.0.1:51141
+1519605930452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VbRpwt3E9D4z"
+
+(firefox:32622): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605930983	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:32676): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519605932106	Marionette	INFO	Listening on port 39357
+1519605932163	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32737): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript warning: https://apis.google.com/_/widget/render/comments?usegapi=1&href=https%3A%2F%2Fpythonselenium.blogspot.ca%2F2015%2F01%2Fhandling-web-alerts.html&query=http%3A%2F%2Fpythonselenium.blogspot.com%2F2015%2F01%2Fhandling-web-alerts.html&first_party_property=BLOGGER&legacy_comment_moderation_url=https%3A%2F%2Fwww.blogger.com%2Fmoderate-legacy-comment.g%3FblogID%3D5836769326123469954&view_type=FILTERED_POSTMOD&width=570&hl=en_GB&origin=https%3A%2F%2Fpythonselenium.blogspot.ca&search=&hash=&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.8r9yNHfeUr8.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMkrGaIL1buYveiPjhxdZ4QfW-HNw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Cscroll%2Copenwindow&id=I0_1519605728188&_gfid=I0_1519605728188&parent=https%3A%2F%2Fpythonselenium.blogspot.ca&pfname=&rpctoken=15780398, line 324: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://apis.google.com/_/widget/render/comments?usegapi=1&href=https%3A%2F%2Fpythonselenium.blogspot.ca%2F2015%2F01%2Fhandling-web-alerts.html&query=http%3A%2F%2Fpythonselenium.blogspot.com%2F2015%2F01%2Fhandling-web-alerts.html&first_party_property=BLOGGER&legacy_comment_moderation_url=https%3A%2F%2Fwww.blogger.com%2Fmoderate-legacy-comment.g%3FblogID%3D5836769326123469954&view_type=FILTERED_POSTMOD&width=570&hl=en_GB&origin=https%3A%2F%2Fpythonselenium.blogspot.ca&search=&hash=&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.8r9yNHfeUr8.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMkrGaIL1buYveiPjhxdZ4QfW-HNw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Cscroll%2Copenwindow&id=I0_1519605728188&_gfid=I0_1519605728188&parent=https%3A%2F%2Fpythonselenium.blogspot.ca&pfname=&rpctoken=15780398, line 1501: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1519606089531	geckodriver	INFO	geckodriver 0.19.0
+1519606089536	geckodriver	INFO	Listening on 127.0.0.1:43407
+1519606090654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yzLBXnn7vMgi"
+
+(firefox:499): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606091176	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:554): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606092328	Marionette	INFO	Listening on port 43933
+1519606092365	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:609): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606230345	geckodriver	INFO	geckodriver 0.19.0
+1519606230350	geckodriver	INFO	Listening on 127.0.0.1:33411
+1519606231500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nfl3rJC8reX0"
+
+(firefox:776): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606232028	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:831): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606233259	Marionette	INFO	Listening on port 40161
+1519606233311	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:897): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606375861	geckodriver	INFO	geckodriver 0.19.0
+1519606375864	geckodriver	INFO	Listening on 127.0.0.1:43051
+1519606377020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mbY8682ECQaU"
+
+(firefox:1073): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606377564	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:1128): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519606378754	Marionette	INFO	Listening on port 35271
+1519606378829	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1185): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612011118	geckodriver	INFO	geckodriver 0.19.0
+1519612011124	geckodriver	INFO	Listening on 127.0.0.1:52415
+1519612012236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7dvwc7TgzJkp"
+
+(firefox:4067): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612012749	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4122): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612013884	Marionette	INFO	Listening on port 34519
+1519612013956	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4174): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612056669	geckodriver	INFO	geckodriver 0.19.0
+1519612056673	geckodriver	INFO	Listening on 127.0.0.1:38975
+1519612057792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aeD6QmRxGmFR"
+
+(firefox:4262): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612058321	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4316): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612059475	Marionette	INFO	Listening on port 36197
+1519612059518	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4378): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612126677	geckodriver	INFO	geckodriver 0.19.0
+1519612126681	geckodriver	INFO	Listening on 127.0.0.1:56125
+1519612127841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XsMKwwB05PZf"
+
+(firefox:4486): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612128380	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4540): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612129839	Marionette	INFO	Listening on port 39495
+1519612129859	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4608): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612197516	geckodriver	INFO	geckodriver 0.19.0
+1519612197521	geckodriver	INFO	Listening on 127.0.0.1:51485
+1519612198637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OOSiRfQRMyWg"
+
+(firefox:4764): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612199146	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:4818): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+JavaScript error: resource://onboarding/onboarding.js, line 18: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIStringBundle.GetStringFromName]
+1519612200356	Marionette	INFO	Listening on port 36777
+1519612200460	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4871): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612289081	geckodriver	INFO	geckodriver 0.19.0
+1519612289085	geckodriver	INFO	Listening on 127.0.0.1:36209
+1519612290227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XfbYke5lUZjJ"
+
+(firefox:4994): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612290745	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:5048): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612291978	Marionette	INFO	Listening on port 40433
+1519612292044	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5102): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612622067	geckodriver	INFO	geckodriver 0.19.0
+1519612622073	geckodriver	INFO	Listening on 127.0.0.1:45169
+1519612623197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RzuKoQRy82uO"
+
+(firefox:5537): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612623737	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:5591): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519612625023	Marionette	INFO	Listening on port 41061
+1519612625107	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5648): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519613256655	geckodriver	INFO	geckodriver 0.19.0
+1519613256660	geckodriver	INFO	Listening on 127.0.0.1:50791
+1519613257775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BO87g2tq5sMZ"
+
+(firefox:6417): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519613258280	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:6471): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519613259415	Marionette	INFO	Listening on port 40721
+1519613259483	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6523): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519613704354	geckodriver	INFO	geckodriver 0.19.0
+1519613704357	geckodriver	INFO	Listening on 127.0.0.1:48071
+1519613705469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RueXvV6FKofk"
+
+(firefox:6982): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519613705985	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:7036): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519613707172	Marionette	INFO	Listening on port 42877
+1519613707193	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7091): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614706478	geckodriver	INFO	geckodriver 0.19.0
+1519614706482	geckodriver	INFO	Listening on 127.0.0.1:55109
+1519614707630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MByLoi8mdl6O"
+
+(firefox:9411): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614708168	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:9465): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614709392	Marionette	INFO	Listening on port 45311
+1519614709448	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9515): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614730333	geckodriver	INFO	geckodriver 0.19.0
+1519614730337	geckodriver	INFO	Listening on 127.0.0.1:60607
+1519614731456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IWf7RqaxrdEg"
+
+(firefox:9581): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614731973	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:9636): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614733228	Marionette	INFO	Listening on port 45977
+1519614733274	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9696): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519614744709	geckodriver	INFO	geckodriver 0.19.0
+1519614744715	geckodriver	INFO	Listening on 127.0.0.1:38175
+1519614744869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q62rUMLygGCw"
+
+(firefox:9780): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614745451	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:9833): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614746737	Marionette	INFO	Listening on port 33999
+1519614746785	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9886): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519614837989	geckodriver	INFO	geckodriver 0.19.0
+1519614837994	geckodriver	INFO	Listening on 127.0.0.1:48737
+1519614839133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YTUZBofhWIXz"
+
+(firefox:10031): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614839678	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:10086): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614840900	Marionette	INFO	Listening on port 43145
+1519614840945	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10141): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1519614853685	geckodriver	INFO	geckodriver 0.19.0
+1519614853691	geckodriver	INFO	Listening on 127.0.0.1:52989
+1519614853813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T6IGESHlcqhQ"
+
+(firefox:10214): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614854337	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:10269): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614855550	Marionette	INFO	Listening on port 39339
+1519614855619	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10319): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614864057	geckodriver	INFO	geckodriver 0.19.0
+1519614864063	geckodriver	INFO	Listening on 127.0.0.1:50931
+1519614865198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.23ttFX3vznz9"
+
+(firefox:10378): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614865889	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:10438): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519614867049	Marionette	INFO	Listening on port 41087
+1519614867114	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10494): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10494, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10438, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519615119409	geckodriver	INFO	geckodriver 0.19.0
+1519615119413	geckodriver	INFO	Listening on 127.0.0.1:57017
+1519615120537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9fZ1kN5CUfXE"
+
+(firefox:11022): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519615121058	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:11076): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519615122234	Marionette	INFO	Listening on port 34457
+1519615122248	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11134): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519615271442	geckodriver	INFO	geckodriver 0.19.0
+1519615271446	geckodriver	INFO	Listening on 127.0.0.1:41369
+1519615272570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KV9y7Isz1XgW"
+
+(firefox:11489): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519615273086	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:11545): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+1519615274251	Marionette	INFO	Listening on port 35717
+1519615274278	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11604): dconf-WARNING **: Unable to open /usr/local/share/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
